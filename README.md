@@ -4,4 +4,4 @@ I think enogh comments has been added to clarify the code. Note that [grow.m](ht
 
 *******************************************************************************************************************************************************************
 
-My main purpose was assess the effect of using one of the PCR components in getting a better segmentation in comparison with using the grayscale version of the image as the input.
+My main purpose was to assess the effect of using one of the PCR components in getting a better segmentation in comparison with using grayscale version of the image as the input.
